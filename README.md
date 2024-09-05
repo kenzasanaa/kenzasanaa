@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kenzasanaa
 - 👀 I’m a first year engineering student
 - 🌱 I’m currently learning react 
-- 💞️ I’m looking to collaborate on sowtware jobs
+- 💞️ I’m looking to collaborate on software  jobs
 - ⚡ Fun fact: i love rain
 
 <!---
