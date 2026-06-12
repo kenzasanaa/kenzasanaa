@@ -1,5 +1,5 @@
 - 👋 Hi, I’m kenza
-- 👀 I’m a second year software engineering student
+- 👀 I’m a software engineering student in SPBSTU
 - 🌱 I’m currently learning react 
 - ⚡ i'm sharing all the details of my learning journey 
 
