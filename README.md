@@ -1,7 +1,7 @@
 - 👋 Hi, I’m kenza
 - 👀 I’m a software engineering student in SPBSTU
 - 🌱 I’m currently learning react 
-- ⚡ i'm sharing all the details of my learning journey 
+- ⚡ i'm sharing all the codes of my learning journey 
 
 <!---
 kenzasanaa/kenzasanaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
