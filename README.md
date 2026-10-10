@@ -1,6 +1,6 @@
 - 👋 Hi, I’m kenza
 - 👀 I’m a software engineering student in SPBSTU
-- 🌱 I’m currently learning react 
+- 🌱 I’m currently learning react and UIUX design
 - ⚡ i'm sharing all the codes of my learning journey 
 
 <!---
