@@ -11,15 +11,21 @@ You can click the Preview link to take a look at your changes.
 ## Certificates and diplomas
 
 <details>
-  <summary><b>Click to view my certificates</b></summary>
+  <summary><b>Click to view my certificates and diplomas</b></summary>
   <br>
 
   <p align="center">
     <a href="certificate-1.pdf">
-      <img src="certificate-1.png" width="45%" alt="Certificate 1">
+      <img src="certificate-1.png" width="24%" alt="Certificate 1">
     </a>
     <a href="certificate-2.pdf">
-      <img src="certificate-2.png" width="45%" alt="Certificate 2">
+      <img src="certificate-2.png" width="24%" alt="Certificate 2">
+    </a>
+    <a href="certificate-3.pdf">
+      <img src="certificate-3.png" width="24%" alt="Certificate 3">
+    </a>
+    <a href="certificate-4.pdf">
+      <img src="certificate-4.png" width="24%" alt="Certificate 4">
     </a>
   </p>
 
